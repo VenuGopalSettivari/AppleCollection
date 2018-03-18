@@ -6,13 +6,16 @@ import java.util.stream.IntStream;
 public class Apple {
 public static void main(String[] args) {
 
+	/** JKD 1.8 */
+	
 	/**
 	 * Problem Description: 
 	 * 
 	 * collect max apples in a garden with 'N' number of trees where two kids where they choose 'K' trees, 
 	 * 'L' trees consecutively without colloid each other and collect maximum possible apple collection.
 	 * 
-	 * return -1/ (no apples) collected when no enough trees are available in garden to collect for each kid's allocated trees. 
+	 * return -1/ (no apples) collected when no enough trees are available in garden to collect for each kid's allocated trees
+	 * . 
 	 */
 	Apple apple = new Apple();
 	int[] A= {5,2,7,9,1,6};

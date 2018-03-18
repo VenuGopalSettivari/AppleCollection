@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 public class Apple {
 public static void main(String[] args) {
 
-	/** JKD 1.8 */
+	/** JDK 1.8 */
 	
 	/**
 	 * Problem Description: 

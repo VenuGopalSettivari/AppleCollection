@@ -22,7 +22,7 @@ public static void main(String[] args) {
 	
 	int maxApples = apple.garden(A, 2, 2);
 	/** OUT COME/RESULT */
-	System.out.println("max apple collected:: "+maxApples);
+	System.out.println("v max apple collected:: "+maxApples);
 }
 /**
  * 

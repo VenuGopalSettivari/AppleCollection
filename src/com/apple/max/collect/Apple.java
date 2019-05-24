@@ -25,6 +25,8 @@ public static void main(String[] args) {
 	System.out.println("we2 max apple collected:: "+maxApples);
 	System.out.println("we4 max apple collected:: "+maxApples);
 	System.out.println("we5 max apple collected:: "+maxApples);
+	System.out.println("we6 max apple collected:: "+maxApples);
+
 
 
 	
